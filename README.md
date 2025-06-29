@@ -1,3 +1,4 @@
+HEAD
  Amazon Archaeological Site Discovery  
 
 An AI-powered exploration of the Amazon Rainforest using open-source geospatial and remote sensing data to uncover previously undocumented archaeological site candidates.
@@ -89,3 +90,6 @@ This project is open-sourced under the MIT License.
 ```
 
  
+=======
+ECHO is on.
+>>>>>>> d28dda3 (Add full project files and updated README)

@@ -1,0 +1,6 @@
+cluster,tile_count,avg_color_r,avg_color_g,avg_color_b,sample_tiles
+0,1,31,90,25,tile_1.jpg
+1,1,111,109,88,tile_2.jpg
+2,1,25,87,21,tile_0.jpg
+3,1,8,15,7,tile_4.jpg
+4,1,1,10,1,tile_3.jpg
